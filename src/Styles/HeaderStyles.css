@@ -1,0 +1,54 @@
+.header{
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar{
+    margin: 0px 20px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    padding: 10px 0px 10px 0px;
+}
+
+/* LOGO */
+.navbar .logo{
+    height: 40px;
+    width: auto;
+}
+
+/* LIENS */
+
+.navbar .liens{
+    display: flex;
+    gap: 30px;
+}
+
+.navbar .liens a{
+    color: #000;
+    display:inline-block;
+    font-size: 15px;
+}
+
+.navbar .liens a:after{
+    display:block;
+    content: '';
+    border-bottom: solid 3px #C011D3;  
+    border-radius:10px;
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+    transform-origin: 100% 50%;
+}
+
+.navbar .liens a:hover:after{
+    transform: scaleX(1); 
+    transform-origin:   0% 50%;
+}
+
+
+/* USER */
+.navbar .user{
+    color: #000;
+}

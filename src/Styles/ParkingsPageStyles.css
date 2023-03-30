@@ -1,0 +1,62 @@
+.title-parking{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.parking-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.parking-card {
+    box-sizing: border-box;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    min-height: 300px;
+    max-width: 300px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.5s;
+}
+
+.parking-card:hover {
+    transform: translateY(-10px);
+}
+/* Titre de la carte de parking */
+.parking-card h2 {
+  margin: 0 0 10px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: var(--font-title);
+}
+
+/* Description de la carte de parking */
+.parking-card p {
+  margin: 0 0 20px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Bouton de la carte de parking */
+.parking-card button {
+    background-color: #5a5ffc;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    transition: background-color 0.3s;
+}
+
+.parking-card button:hover {
+    background-color: var(--pink-color-text);
+}

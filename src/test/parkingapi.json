@@ -1,0 +1,1283 @@
+{
+"nhits": 30,
+"parameters": {
+"dataset": "244400404_parkings-publics-nantes",
+"rows": 50,
+"start": 0,
+"facet": [
+"libcategorie",
+"libtype",
+"acces_pmr",
+"service_velo",
+"stationnement_velo",
+"stationnement_velo_securise",
+"moyen_paiement"
+],
+"format": "json",
+"timezone": "UTC"
+},
+"records": [
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "51016c81e4dca311f1987943c852c9b3243d8402",
+"fields": {
+"capacite_velo": 85,
+"location": [
+47.21784288800001,
+-1.5582500169999776
+],
+"capacite_vehicule_electrique": 6,
+"capacite_voiture": 648,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGEToilettes accessibles PMR",
+"idobj": "299",
+"presentation": "Parking de Centre-ville.Parking Accessible 6h30 - 22h30 en semaine - le dimanche 8h -19h, 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "4 Place de Bretagne",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Tour Bretagne",
+"libtype": "Mixte",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Tramway Lignes 3 \"Bretagne\".Station Bicloo n°14 \"Bretagne Nord\".Station Marguerite \"Place Bretagne\" (Véhicule en libre service).",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/tour-bretagne",
+"commune": "Nantes",
+"exploitant": "NGE",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 15,
+"capacite_pmr": 13
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5582500169999776,
+47.21784288800001
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "94a877a17cb7d796fc93d62a8d3695265d9181b2",
+"fields": {
+"capacite_velo": 67,
+"location": [
+47.22081334400002,
+-1.5510561649999772
+],
+"capacite_vehicule_electrique": 1,
+"capacite_voiture": 382,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGEToilettes Publiques accessibles PMR",
+"idobj": "3652",
+"presentation": "Parking de Centre-ville.Parking Accessible 7h - 23h du lundi au samedi et le dimanche 9h - 20h, 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Rue Sully",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Cathédrale",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Busway Ligne 4 \"Foch Cathédrale\".Station Bicloo n°70 \"Foch Cathédrale\".Station Marguerite \"Duchesse Anne\" (Véhicule en libre service).",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/cathedrale",
+"commune": "Nantes",
+"exploitant": "NGE",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_moto": 14,
+"capacite_pmr": 9
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5510561649999772,
+47.22081334400002
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "4aae8cb4c0844287242fd6cb321930c5a5f110bb",
+"fields": {
+"location": [
+47.216989954999974,
+-1.547850445999984
+],
+"capacite_voiture": 75,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "3554",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Rue Henri IV",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Château",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Ligne 1 \"Duchesse Anne\".Station Busway Ligne 4 \"Duchesse Anne\"Station Bicloo n°49 \"Duchesse Anne\".Station Marguerite \"Duchesse Anne\" (Véhicule en libre service).",
+"commune": "Nantes",
+"telephone": "02 51 84 94 51",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/chateau",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 5
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.547850445999984,
+47.216989954999974
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "642085330d9d84c5b5355201f0ffc121eb53cc69",
+"fields": {
+"location": [
+47.20828931400001,
+-1.5689156060000187
+],
+"capacite_voiture": 46,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "4072",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Quai de la Fosse",
+"code_postal": "44100",
+"nom_complet": "Parking Chantiers Navals",
+"acces_transports_communs": "Station Tramway Lignes 1 \"Chantiers Navals\"Station Bicloo n°41 \"Chantiers Navals\"Station Marguerite \"Gare Maritime\" (Véhicule en libre service)",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/chantiersnavals",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 3
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5689156060000187,
+47.20828931400001
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "55ea711946976daa7b6489f78629d1dcb949a475",
+"fields": {
+"capacite_velo": 55,
+"location": [
+47.216981170999986,
+-1.5363160630000152
+],
+"capacite_vehicule_electrique": 10,
+"capacite_voiture": 490,
+"acces_pmr": "OUI",
+"infos_complementaires": "<p>Accès Payant Exploitant EFFIA Toilettes accessibles PMR Réservation possible: https://www.effia.com/</p>",
+"idobj": "5533",
+"libcategorie": "Parking Ouvrage",
+"presentation": "<p>Parking de Gare. Parking Accessible 24h/24 et 7j/7 pour les abonnés.</p>",
+"adresse": "20 Boulevard de Berlin",
+"code_postal": "44000",
+"stationnement_velo": "OUI",
+"nom_complet": "Parking Gare Sud 2",
+"libtype": "Elévation",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "<p>Station Bicloo n°59 \"Stade Saupin\", n°70 \"Gare Sud\". Station Marguerite \"Gare Sud\" (Véhicule en libre service).</p>",
+"commune": "Nantes",
+"telephone": "02 40 74 23 05",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"exploitant": "EFFIA",
+"capacite_moto": 20,
+"capacite_pmr": 11
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5363160630000152,
+47.216981170999986
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "032e12f7ce4edd154ce878e17f539e8587f98723",
+"fields": {
+"capacite_velo": 39,
+"location": [
+47.20409254200001,
+-1.5632873819999986
+],
+"capacite_vehicule_electrique": 10,
+"capacite_voiture": 500,
+"acces_pmr": "OUI",
+"infos_complementaires": "<p>Accès Payant Exploitant EFFIA Toilettes accessibles PMR Réservation possible: https://www.effia.com/</p>",
+"idobj": "5840",
+"presentation": "<p>Parking Ile de Nantes. Parking Accessible 7h30 - 22h30 du lundi au vendredi, 8h30 - 22h30 samedi au dimanche, 7j/7 pour les abonnés.</p>",
+"libcategorie": "Parking Ouvrage",
+"adresse": "61 Boulevard de la Prairie au Duc",
+"stationnement_velo": "OUI",
+"code_postal": "44200",
+"nom_complet": "Parking Les Nefs",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "<p>Station Chronobus Lignes 5 \"Prairie au Duc\". Station Bicloo n°45 \"Prairie au Duc\".  Station Marguerite \"Machines de l'ile\" et \"République\" (Véhicule en libre service).</p>",
+"telephone": "02 28 20 01 09",
+"site_web": "https://www.effia.com/parking/parking-nantes-les-nefs-effia",
+"commune": "Nantes",
+"exploitant": "EFFIA",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_moto": 19,
+"capacite_pmr": 11
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5632873819999986,
+47.20409254200001
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "1426ab3c11d92bbc7163bf1b3165e25c159a837d",
+"fields": {
+"capacite_velo": 70,
+"location": [
+47.21666261299998,
+-1.5540046290000191
+],
+"capacite_vehicule_electrique": 6,
+"capacite_voiture": 511,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGEToilettes",
+"idobj": "284",
+"presentation": "Parking de Centre-ville.Parking Accessible 6h30 - 22h30 du dimanche au jeudi, 6h30 - 2h les vendredis et samedis, 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "18 Rue du Moulin",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Decré-Bouffay",
+"libtype": "Mixte",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Tramway Lignes 1-2-3 \"Commerce\".Station Bicloo n°4 \"Moulin\".Station Marguerite \"Hôtel de Ville\" (Véhicule en libre service).",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/decre-bouffay",
+"commune": "Nantes",
+"exploitant": "NGE",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 26,
+"capacite_pmr": 10
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5540046290000191,
+47.21666261299998
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "be3d223a68a465334e8306c88b1f941f9b6f1637",
+"fields": {
+"location": [
+47.21315097399997,
+-1.5516042549999725
+],
+"capacite_voiture": 122,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "3551",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Allée Baco",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Baco-LU 2 côté CHU",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Lignes 2-3 \"Hôtel Dieu\".Station Bicloo n°52 \"Baco\".Station Marguerite \"Baco\" (Véhicule en libre service).",
+"commune": "Nantes",
+"telephone": "02 51 84 94 51",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/baco-lu",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 4
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5516042549999725,
+47.21315097399997
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "30e9db1b51c1b2bd8fc55bf7bd5762395fab4cca",
+"fields": {
+"capacite_velo": 86,
+"location": [
+47.21491533400001,
+-1.539256308000006
+],
+"capacite_vehicule_electrique": 10,
+"capacite_voiture": 592,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant EFFIAToilettes accessibles PMRRéservation possible: https://www.effia.com/",
+"idobj": "3555",
+"presentation": "Parking de la GareParking Accessible 24h/24 et 7j/7 pour les abonnés",
+"libcategorie": "Parking Ouvrage",
+"adresse": "32 Rue du Pré Gauchet",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Gare Sud 3",
+"libtype": "Mixte",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Bicloo n°59 \"Stade Saupin\".Station Marguerite \"Gare Sud\" (Véhicule en libre service).",
+"telephone": "02 40 08 15 28",
+"site_web": "https://www.effia.com/parking/parking-gare-de-nantes-gare-sud-3-jallais-effia",
+"commune": "Nantes",
+"exploitant": "EFFIA",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 20,
+"capacite_pmr": 14
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.539256308000006,
+47.21491533400001
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "9b4e71907cd805f71c74bdb2f090ae58977ce856",
+"fields": {
+"location": [
+47.21027368099999,
+-1.560284366000019
+],
+"capacite_voiture": 100,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès Payant Exploitant NGE",
+"idobj": "4073",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Rue Albert de Mun",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Gloriette 2",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Ligne 1 \"Commerce\"Station Bicloo n°37 \"Feydeau\"Station Marguerite \"Delorme\" (Véhicule en libre service)",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/gloriettedeux",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 3
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.560284366000019,
+47.21027368099999
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "3d875d80db939280269fc0cecaf4401ec71c76c4",
+"fields": {
+"capacite_velo": 35,
+"location": [
+47.21718884799998,
+-1.5643645260000199
+],
+"capacite_vehicule_electrique": 10,
+"capacite_voiture": 250,
+"acces_pmr": "OUI",
+"infos_complementaires": "<p>Accès Payant Exploitant EFFIA Toilettes accessibles PMR Réservation possible: https://www.effia.com/</p>",
+"idobj": "5552",
+"libcategorie": "Parking Ouvrage",
+"presentation": "<p>Parking de Centre-ville. Parking accessible du lundi au samedi 7h30-21h30 le dimanche et jours fériés de 8h-20h et 7j/7 pour les abonnés.</p>",
+"adresse": "Rue Descartes",
+"code_postal": "44000",
+"stationnement_velo": "OUI",
+"nom_complet": "Parking Descartes",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "OUI",
+"commune": "Nantes",
+"telephone": "02 40 47 06 05",
+"site_web": "https://www.effia.com/parking/parking-nantes-descartes-effia",
+"moyen_paiement": "CB en borne de sortie, Espèces, chèque, Total GR",
+"exploitant": "EFFIA",
+"capacite_moto": 20,
+"capacite_pmr": 6
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5643645260000199,
+47.21718884799998
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "fe9d218e00a8a215fda4e05d8c0528af71446ec9",
+"fields": {
+"capacite_velo": 86,
+"location": [
+47.210870821000015,
+-1.56233817399999
+],
+"capacite_vehicule_electrique": 17,
+"capacite_voiture": 433,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant EFFIAToilettes",
+"idobj": "134",
+"libcategorie": "Parking Ouvrage",
+"presentation": "Parking de Centre-ville.Parking accessible de 6h30 à 23h et 7j/7 pour les abonnés.",
+"adresse": "Rue Neuve des Capucins",
+"code_postal": "44000",
+"stationnement_velo": "OUI",
+"nom_complet": "Parking Médiathèque",
+"libtype": "Mixte",
+"stationnement_velo_securise": "OUI",
+"commune": "Nantes",
+"telephone": "02 40 47 06 05",
+"site_web": "https://www.effia.com/parking/parking-nantes-mediatheque-effia",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"exploitant": "EFFIA",
+"capacite_moto": 20,
+"capacite_pmr": 9
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.56233817399999,
+47.210870821000015
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "ed533e5b3fcd92142b5938d7ec0c6c2b1104425c",
+"fields": {
+"capacite_velo": 358,
+"location": [
+47.21668903400001,
+-1.5449843310000233
+],
+"capacite_vehicule_electrique": 11,
+"capacite_voiture": 597,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant EFFIAToilettes accessibles PMRRéservation possible: https://www.effia.com/",
+"idobj": "280",
+"presentation": "Parking de Gare.Parking Accessible 24h/24 et 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Cours John Kennedy",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Gare Château",
+"libtype": "Elévation",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Gare de Nantes.Station Bicloo 62 \"Gare Nord\" (équipée CB).Station Tramway Ligne 1 \"Gare Nord\".",
+"telephone": "02 40 74 23 05",
+"site_web": "https://www.effia.com/parking/parking-gare-de-nantes-nord-effia",
+"commune": "Nantes",
+"exploitant": "EFFIA",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 10,
+"service_velo": "Location vélo classique ou électrique de la 1/2 journée à l'année.",
+"capacite_pmr": 12
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5449843310000233,
+47.21668903400001
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "6f34542bfe5df22f4af4c6b748500802bcb90351",
+"fields": {
+"capacite_velo": 29,
+"location": [
+47.212901665000004,
+-1.5439712740000004
+],
+"capacite_vehicule_electrique": 9,
+"capacite_voiture": 439,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès payantExploitant EFFIA",
+"idobj": "1044",
+"presentation": "Parking de Centre-ville.Parking Accessible du lundi au samedi  6h30 - minuit et le dimanche  8h -19h et 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Avenue Jean Claude Bonduelle",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Cité des Congrès",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Busway Ligne 4 \"Cité Internationale des Congrès\".Station Bicloo n°54 \"Cité Internationale des Congrès\" (équipée CB).Station Marguerite \"Cité des Congrès\" (Véhicule en libre service).",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.effia.com/parking/parking-nantes-cite-des-congres-effia",
+"commune": "Nantes",
+"exploitant": "EFFIA",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 4,
+"capacite_pmr": 10
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5439712740000004,
+47.212901665000004
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "f640a82f03f3b86917f5e1b9d633b056d69ca6e1",
+"fields": {
+"location": [
+47.20936196600002,
+-1.5572502320000012
+],
+"capacite_voiture": 148,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "3651",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.Possibilité d'abonnements pour les commerçants du marché de la Petite Hollande.",
+"adresse": "Quai de Tourville",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking CHU 1",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Lignes 2-3 \"Aimé Delrue\" et Ligne 1 \"Commerce\".Station Bicloo n°39 \"Quai Moncousu\".",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/chu",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 3
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5572502320000012,
+47.20936196600002
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "591a2559bc953bf54b0a5f0bfd50d78f2d7ebba7",
+"fields": {
+"location": [
+47.20497045899998,
+-1.5443329510000012
+],
+"capacite_voiture": 120,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "4319",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Rue de la Porte Gellée",
+"code_postal": "44200",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Les Fonderies",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Lignes 2-3 \"Wattignies\"Station Bicloo n°47 \"Martyrs nantais\"",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/parking-les-fonderies",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 3
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5443329510000012,
+47.20497045899998
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "90c129ec93848175ac2711540edc6c35e606b9ca",
+"fields": {
+"location": [
+47.217405575999976,
+-1.5172523049999995
+],
+"capacite_voiture": 20,
+"infos_complementaires": "Parking réservé aux cars de tourisme et lignes régulières Exploitant EFFIA",
+"idobj": "5492",
+"libcategorie": "Parc en Enclos",
+"presentation": "Parc en enclos pour le stationnement des cars de tourisme et lignes régulières  (1h : 0,70€, 1h30 :1,10 €, 3h : 1,90€)",
+"adresse": "Chemin de la Roche",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking cars",
+"libtype": "Enclos",
+"stationnement_velo_securise": "NON",
+"commune": "Nantes",
+"telephone": "08 25 88 88 26",
+"site_web": "https://www.effia.com/search?lat=47.2143&lng=-1.54085",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5172523049999995,
+47.217405575999976
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "da539aab73a5ec38dee0dfc896a390ca47eff708",
+"fields": {
+"capacite_velo": 300,
+"location": [
+47.21312028,
+-1.557713217000014
+],
+"capacite_vehicule_electrique": 10,
+"capacite_voiture": 433,
+"acces_pmr": "OUI",
+"infos_complementaires": "<p>Accès Payant<br />Toilettes <br />Exploitant NGE <br /><br /></p>",
+"idobj": "677",
+"presentation": "<p>Parking de Centre-ville. <br />Parking accessible 6h - minuit du lundi au jeudi et 6h - 1h du vendredi au dimanche, 7j/7 pour les abonnés.</p>",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Place du Commerce",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Commerce",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "OUI",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/commerce",
+"commune": "Nantes",
+"exploitant": "NGE",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_moto": 10,
+"service_velo": "Prises vélos électrique, casiers, kit réparation, pompe...",
+"capacite_pmr": 2
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.557713217000014,
+47.21312028
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "e3149bc79f63bd84cbb17aa4e96c30927df8e229",
+"fields": {
+"location": [
+47.21709359800002,
+-1.5629364160000137
+],
+"capacite_voiture": 307,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant EFFIAToilettes accessibles PMR",
+"idobj": "1043",
+"libcategorie": "Parking Ouvrage",
+"presentation": "Parking de Centre-ville.Parking accessible du lundi au samedi 7h30-21h30 le dimanche et jours fériés de 8h-19h et 7j/7 pour les abonnés.",
+"adresse": "Place Aristide Briand",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Aristide Briand",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "NON",
+"commune": "Nantes",
+"telephone": "02 40 47 06 05",
+"site_web": "https://www.effia.com/parking/parking-nantes-aristide-briand-effia",
+"moyen_paiement": "CB en borne de sortie, Espèces, chèque, Total GR",
+"exploitant": "EFFIA",
+"capacite_moto": 10,
+"capacite_pmr": 9
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5629364160000137,
+47.21709359800002
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "a2c584ec9e08f8b6f0a3e75ef42c128364f98cf2",
+"fields": {
+"capacite_velo": 64,
+"location": [
+47.20590061600001,
+-1.5627277899999967
+],
+"capacite_vehicule_electrique": 17,
+"capacite_voiture": 640,
+"acces_pmr": "OUI",
+"infos_complementaires": "<p>Accès Payant Exploitant EFFIA Toilettes accessibles PMR Réservation possible: https://www.effia.com/</p>",
+"idobj": "3951",
+"presentation": "<p>Parking Ile de Nantes. Parking Accessible 7h30 - 22h30 du lundi au vendredi, 8h30 - 22h30 samedi au dimanche, 7j/7 pour les abonnés.</p>",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Rue Arthur III",
+"stationnement_velo": "OUI",
+"code_postal": "44200",
+"nom_complet": "Parking Les Machines",
+"libtype": "Elévation",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "<p>Station Tramway Lignes 1 \"Chantiers Navals\". Station Bicloo n°43 \"Machines de l'Ile\". Station Marguerite \"Machines de l'ile\" (Véhicule en libre service).</p>",
+"telephone": "02 28 20 01 09",
+"site_web": "https://www.effia.com/parking/parking-les-machines-de-nantes-effia",
+"commune": "Nantes",
+"exploitant": "EFFIA",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_moto": 19,
+"capacite_pmr": 21
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5627277899999967,
+47.20590061600001
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "0dc56b3cb6ece3dd38cc2c623a241db3a06d3337",
+"fields": {
+"capacite_velo": 25,
+"location": [
+47.214310205000004,
+-1.562571814000023
+],
+"capacite_vehicule_electrique": 6,
+"capacite_voiture": 484,
+"acces_pmr": "OUI",
+"infos_complementaires": "Toilettes accessibles PMR",
+"idobj": "288",
+"presentation": "Parking de Centre-ville.Parking Accessible 6h-23h et 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Rue Scribe",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Graslin",
+"libtype": "Elévation",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station bicloo n°33 \"Racine\".Station Marguerite \"Graslin\" (Véhicule en libre service).Arrêt de bus \"Graslin\" Lignes 22-21-23-24-42-51-56.",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/graslin",
+"commune": "Nantes",
+"exploitant": "NGE",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 6,
+"capacite_pmr": 10
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.562571814000023,
+47.214310205000004
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "18885184b379b317f72bad84560675c2ae979fc6",
+"fields": {
+"capacite_velo": 43,
+"location": [
+47.220255974,
+-1.5583572969999864
+],
+"capacite_vehicule_electrique": 6,
+"capacite_voiture": 340,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGEToilettes accessibles PMR",
+"idobj": "1046",
+"presentation": "Parking de Centre-ville.Parking Accessible 6h30 - 23h00 du lundi au samedi, le dimanche de 7h30 à 20h, 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Rue Le Nôtre",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Talensac",
+"libtype": "Elévation",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Tramway Lignes 3 \"50 Otages\".Station Bicloo n°1 \"Préfecture\" (équipée CB).Station Marguerite \"50 Otages\" (Véhicule en libre service).",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/talensac",
+"commune": "Nantes",
+"exploitant": "NGE",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 6,
+"capacite_pmr": 7
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5583572969999864,
+47.220255974
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "c712f9884da5bc8b9f9b9d094da8d4cfdfee9b92",
+"fields": {
+"location": [
+47.222360408999975,
+-1.5576936900000078
+],
+"capacite_voiture": 78,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "3650",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures.Le parc Bellamy est accessible du lundi au jeudi 24h/24 et du vendredi au dimanche à partir de 14h30.Possibilité d'abonnements pour les commerçants du marché de Talensac.",
+"adresse": "Impasse de la Courtine",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Bellamy",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Lignes 2 \"50 Otages\".Station Bicloo n°21 \"Marché Talensac Sud\".Station Marguerite \"50 Otages\" (Véhicule en libre service).",
+"commune": "Nantes",
+"telephone": "02 51 84 94 51",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/bellamy",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_pmr": 2
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5576936900000078,
+47.222360408999975
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "eca02a3e02070d8508f645af8bf3be691bd95520",
+"fields": {
+"location": [
+47.214332415,
+-1.5489888249999808
+],
+"capacite_voiture": 92,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "4142",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Allée Baco",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Baco-LU 1 côté gare",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Lignes 2-3 \"Hôtel Dieu\".Station Bicloo n°52 \"Baco\".Station Marguerite \"Baco\" (Véhicule en libre service).",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/baco-lu",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 3
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5489888249999808,
+47.214332415
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "90ee08e48093a19c66a0369647116782f0b4495b",
+"fields": {
+"location": [
+47.21105707999999,
+-1.5519831099999806
+],
+"capacite_voiture": 104,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "3550",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Chaussée de la Madeleine",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Hôtel Dieu",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Lignes 2-3 \"Hôtel Dieu\".Station Bicloo n°38 \"Place Ricordeau\".Station Marguerite \"Baco\" (Véhicule en libre service).",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/hotel-dieu",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 4
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5519831099999806,
+47.21105707999999
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "eea977db68ce9b538e2c8483981acb56968b9a7e",
+"fields": {
+"capacite_velo": 50,
+"location": [
+47.21510336,
+-1.5379338930000017
+],
+"capacite_vehicule_electrique": 13,
+"capacite_voiture": 435,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant EFFIAToilettes accessible PMRRéservation possible: https://www.effia.com/",
+"idobj": "3989",
+"libcategorie": "Parking Ouvrage",
+"presentation": "Parking de Gare.Parking accessible du lundi au samedi, de 6h à 22h, 7j/7 pour les abonnés.",
+"adresse": "24 Mail Pablo Picasso",
+"code_postal": "44000",
+"stationnement_velo": "OUI",
+"nom_complet": "Parking Gare Sud 4",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Bicloo n°59 \"Stade Saupin\".Station Marguerite \"Gare Sud\" (Véhicule en libre service).",
+"commune": "Nantes",
+"telephone": "02 28 44 56 43",
+"site_web": "https://www.effia.com/parking/parking-gare-de-nantes-gare-sud-4-effia",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_moto": 10,
+"capacite_pmr": 9
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5379338930000017,
+47.21510336
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "3413f3ace9a911c0cb600d8a7ee4d398838606e9",
+"fields": {
+"capacite_velo": 46,
+"location": [
+47.21407529499999,
+-1.552558781000016
+],
+"capacite_vehicule_electrique": 6,
+"capacite_voiture": 495,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGEToilettes accessibles PMR",
+"idobj": "4320",
+"presentation": "Les parkings du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement supérieur à 2 heures. Parking Accessible du dimanche matin au mercredi soir : 6h30 - 23h30 et du jeudi matin au dimanche matin : 6h30-2h00, 7j/7 pour les abonnés.",
+"libcategorie": "Parking Ouvrage",
+"adresse": "Parvis Neptune",
+"stationnement_velo": "OUI",
+"code_postal": "44000",
+"nom_complet": "Parking Feydeau",
+"libtype": "Souterrain",
+"stationnement_velo_securise": "OUI",
+"acces_transports_communs": "Station Tramway Lignes 1 \"Bouffay\".Station Bicloo n°50 \"Château\".",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/parking-feydeau",
+"commune": "Nantes",
+"exploitant": "NGE",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_moto": 20,
+"capacite_pmr": 11
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.552558781000016,
+47.21407529499999
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "6d8b0bf64b34fcbf7e6c5e8eaef7d560f75c5e83",
+"fields": {
+"location": [
+47.21117964899997,
+-1.5584387270000093
+],
+"capacite_voiture": 172,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès PayantExploitant NGE",
+"idobj": "3549",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Allée de l'Ile Gloriette",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Gloriette 1",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Station Tramway Ligne 1 \"Commerce\".Station Marguerite \"Delorme\" (Véhicules en libre service).Station Bicloo n°37 \"Feydeau.",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/glorietteun",
+"moyen_paiement": "CB en borne de sortie, Espèces",
+"capacite_pmr": 4
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5584387270000093,
+47.21117964899997
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "0d09ed121dc6089cc1471bfadaab6f18c2035267",
+"fields": {
+"location": [
+47.21370471099999,
+-1.5405805820000182
+],
+"capacite_voiture": 80,
+"acces_pmr": "OUI",
+"infos_complementaires": "Accès Payant à partir d'une heureExploitant EFFIA",
+"idobj": "3590",
+"libcategorie": "Parc en Enclos",
+"presentation": "Parc en enclos pour le stationnement de courte durée en lien avec la Gare SNCF (1h : 2,20€, 1h30 : 8,80 €, 3h : 15,40€),Gratuit 30 premières minutes",
+"adresse": "Quai Malakoff",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking Gare limité 1h",
+"libtype": "Enclos",
+"stationnement_velo_securise": "NON",
+"acces_transports_communs": "Gare SNCF",
+"commune": "Nantes",
+"telephone": "08 25 88 88 26",
+"site_web": "https://www.effia.com/parking/parking-gare-de-nantes-sud-2-courte-duree-effia",
+"moyen_paiement": "CB en borne de sortie, Espèces, Total GR",
+"capacite_pmr": 1
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.5405805820000182,
+47.21370471099999
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+},
+{
+"datasetid": "244400404_parkings-publics-nantes",
+"recordid": "5eafb4f90be233517d5be587ca66350f736c3ece",
+"fields": {
+"location": [
+47.20889024799999,
+-1.55291388400002
+],
+"capacite_voiture": 61,
+"acces_pmr": "-",
+"idobj": "5022",
+"libcategorie": "Parc en Enclos",
+"presentation": "Les parcs en enclos du centre-ville de Nantes proposent une offre de stationnement privilégiant le stationnement inférieur à 2 heures. Ils sont accessibles 24h/24 et 7j/7.",
+"adresse": "Quai Moncousu",
+"code_postal": "44000",
+"stationnement_velo": "NON",
+"nom_complet": "Parking CHU 2",
+"stationnement_velo_securise": "NON",
+"commune": "Nantes",
+"telephone": "02 51 84 95 70",
+"site_web": "https://www.parkings-nantes.fr/fr/parkings/chu-2",
+"capacite_pmr": 2
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-1.55291388400002,
+47.20889024799999
+]
+},
+"record_timestamp": "2022-10-03T12:53:02.67Z"
+}
+],
+"facet_groups": [
+{
+"name": "libcategorie",
+"facets": [
+{
+"name": "Parking Ouvrage",
+"count": 17,
+"state": "displayed",
+"path": "Parking Ouvrage"
+},
+{
+"name": "Parc en Enclos",
+"count": 13,
+"state": "displayed",
+"path": "Parc en Enclos"
+}
+]
+},
+{
+"name": "libtype",
+"facets": [
+{
+"name": "Souterrain",
+"count": 8,
+"state": "displayed",
+"path": "Souterrain"
+},
+{
+"name": "Elévation",
+"count": 5,
+"state": "displayed",
+"path": "Elévation"
+},
+{
+"name": "Mixte",
+"count": 4,
+"state": "displayed",
+"path": "Mixte"
+},
+{
+"name": "Enclos",
+"count": 2,
+"state": "displayed",
+"path": "Enclos"
+}
+]
+},
+{
+"name": "acces_pmr",
+"facets": [
+{
+"name": "OUI",
+"count": 28,
+"state": "displayed",
+"path": "OUI"
+},
+{
+"name": "-",
+"count": 1,
+"state": "displayed",
+"path": "-"
+}
+]
+},
+{
+"name": "service_velo",
+"facets": [
+{
+"name": "Location vélo classique ou électrique de la 1/2 journée à l'année.",
+"count": 1,
+"state": "displayed",
+"path": "Location vélo classique ou électrique de la 1/2 journée à l'année."
+},
+{
+"name": "Prises vélos électrique, casiers, kit réparation, pompe...",
+"count": 1,
+"state": "displayed",
+"path": "Prises vélos électrique, casiers, kit réparation, pompe..."
+}
+]
+},
+{
+"name": "stationnement_velo",
+"facets": [
+{
+"name": "OUI",
+"count": 16,
+"state": "displayed",
+"path": "OUI"
+},
+{
+"name": "NON",
+"count": 13,
+"state": "displayed",
+"path": "NON"
+}
+]
+},
+{
+"name": "stationnement_velo_securise",
+"facets": [
+{
+"name": "OUI",
+"count": 16,
+"state": "displayed",
+"path": "OUI"
+},
+{
+"name": "NON",
+"count": 13,
+"state": "displayed",
+"path": "NON"
+}
+]
+},
+{
+"name": "moyen_paiement",
+"facets": [
+{
+"name": "CB en borne de sortie, Espèces",
+"count": 14,
+"state": "displayed",
+"path": "CB en borne de sortie, Espèces"
+},
+{
+"name": "CB en borne de sortie, Espèces, Total GR",
+"count": 13,
+"state": "displayed",
+"path": "CB en borne de sortie, Espèces, Total GR"
+},
+{
+"name": "CB en borne de sortie, Espèces, chèque, Total GR",
+"count": 2,
+"state": "displayed",
+"path": "CB en borne de sortie, Espèces, chèque, Total GR"
+}
+]
+}
+]
+}

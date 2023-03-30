@@ -1,0 +1,150 @@
+.section-1{
+    background-color: var(--bg-2-color);
+}
+
+p{
+    font-family: var(--font-text);
+}
+
+/**************** SECTION 1****************/
+.bg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.53), rgba(0, 0, 0, 0.53)), url("../../public/LoireAtlantique.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+}
+
+.title{
+    font-family: var(--font-title);
+    font-weight: 500;
+    font-size: 30px;
+    color: var(--secondary-color);
+    padding: 60px 25px;
+}
+
+.nameapp{
+    font-family: var(--font-text-spe);
+    color: var(--pink-color-text);
+    font-weight: 700;
+}
+
+.image {
+    margin: 10px;
+    padding: 20px;
+    overflow: hidden;
+    object-fit: contain;
+    max-height: 600px;
+    width: auto;
+}
+@media (max-width: 768px) {
+    .image {
+    display: none;
+    }
+}
+
+.search{
+    padding: 0px 25px 30px 25px;
+}
+.search label{
+    font-family: var(--font-text);
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--secondary-color);
+}
+.search input{
+    width: 80%;
+    height: 40px;
+    border-radius: 15px;
+    border: 2px solid var(--pink-color-text);    
+}
+
+.search input[type=search] {
+    padding: 5px 22px;
+    font-size: 15px;
+}
+
+@media (max-width: 768px) {
+    .search {
+    display: none;
+    }
+}
+
+.section-1-1{
+    padding: 80px 10px 80px 10px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-1-1 .description{
+    max-width: 40%;
+    font-family: var(--font-text);
+}
+
+.section-1-1 .mobile img{
+    max-width: 200px;
+}
+/**************** SECTION 2****************/
+
+.section-2 h1{
+    font-family: var(--font-title);
+    font-weight: 500;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+
+.section-2 h1 span{
+    color: var(--pink-color-text);
+}
+
+/**************** SECTION 2 CARD****************/
+
+.card {
+    align-items: center;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: left;
+
+}
+    
+.card img {
+    max-width: 280px;
+    margin: 30px 0px;
+    border-radius: 20px;
+}
+    
+.card p {
+    margin-bottom: 20px;
+    text-align: left;
+}
+    
+.card p span {
+    font-weight: bold;
+}
+    
+.card button {
+    background-color: #5a5ffc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+    
+.card button:hover {
+    background-color: var(--pink-color-text);
+}
+
+.card-main{
+    text-align: center;
+}
+
+/**************** SECTION 3 ****************/
+

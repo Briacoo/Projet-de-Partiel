@@ -1,0 +1,12 @@
+:root{
+    --primary-color: #000;
+    --secondary-color: #fff;
+    --pink-color-text: #cb73f1;
+    --bg-2-color: #f4f4f4;
+    --font-title: 'Poppins', sans-serif;
+    --font-text-spe: 'Comfortaa', cursive;
+    --font-text: 'Poppins', sans-serif;
+    --header-height: auto;
+    --footer-height: auto;
+}
+
